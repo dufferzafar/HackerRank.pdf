@@ -5,7 +5,7 @@ HackerRank problems in PDF by categories.
 
 Since HackerRank is nice enough to provide all problem statements in PDF, this script only downloads all the PDFs and merges them into a single bundle.
 
-Files can be [downloaded from the releases page]().
+Files can be [downloaded from the releases page](https://github.com/dufferzafar/HackerRank.pdf/releases).
 
 ## Running the script
 
